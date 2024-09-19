@@ -1,4 +1,4 @@
-package com.course.learningkotlinfundamentalsday_1_2_3.ui.theme
+package com.course.learningkotlinfundamentalsday_1_2_3
 
 fun main() {
     var circleRatio: Float = 3.14f

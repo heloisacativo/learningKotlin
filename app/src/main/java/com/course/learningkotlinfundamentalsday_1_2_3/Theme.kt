@@ -1,4 +1,4 @@
-package com.course.learningkotlinfundamentalsday_1_2_3.ui.theme
+package com.course.learningkotlinfundamentalsday_1_2_3
 
 import android.app.Activity
 import android.os.Build
